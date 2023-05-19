@@ -66,7 +66,7 @@ export default function Home() {
         </Typography>
         <Typography variant="h6" align="center" sx={{ mb: 4 }}>
           Quickly build an effective pricing table for your potential customers
-          with this Bootstrap example. It's built with default Bootstrap
+          with this Bootstrap example. It&apos;s built with default Bootstrap
           components and utilities with little customization. customization.
         </Typography>
         <Grid container spacing={3} sx={{ mb: 4 }}>
